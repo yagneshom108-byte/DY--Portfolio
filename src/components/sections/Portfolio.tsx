@@ -125,7 +125,7 @@ const portfolioItems = [
       {
         id: 14,
         title: 'Motion Edit 2',
-        thumbnail: 'Thambnail/Podcast Thambnail 2.jpg',
+        thumbnail: 'Thambnail/Motion Thambnail 2.jpg',
         duration: '0:32',
         youtube: 'https://www.youtube.com/embed/Bt1ULc90W1c?autoplay=1'
       },
