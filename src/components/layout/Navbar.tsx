@@ -70,7 +70,7 @@ export const Navbar: React.FC = () => {
         >
 
           <img
-            src="public/images/logo/ChatGPT Image May 14, 2026, 08_23_50 PM.png"
+            src="Thambnail/ChatGPT Image May 14, 2026, 08_23_50 PM.png"
             alt="DY Logo"
             className="h-12 w-auto object-contain drop-shadow-[0_0_20px_rgba(255,0,0,0.45)]"
           />
