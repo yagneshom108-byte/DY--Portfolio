@@ -34,7 +34,7 @@ export const Footer: React.FC = () => {
             <div className="flex items-center gap-3">
 
               <img
-                src="/images/logo/logo.png"
+                src="Thambnail/ChatGPT Image May 14, 2026, 08_23_50 PM.png"
                 alt="DY Logo"
                 className="h-14 w-auto object-contain drop-shadow-[0_0_25px_rgba(255,0,0,0.35)]"
               />
