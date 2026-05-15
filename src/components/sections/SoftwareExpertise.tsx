@@ -2,11 +2,11 @@ import React from 'react';
 import { motion } from 'motion/react';
 
 const tools = [
-  { name: 'Adobe Premiere Pro', logo: 'public/images/Icons/premiere-pro.png' },
-  { name: 'After Effects', logo: 'public/images/Icons/after-effects.png' },
-  { name: 'Photoshop', logo: 'public/images/Icons/photoshop.png' },
-  { name: 'DaVinci Resolve', logo: 'public/images/Icons/pngwing.com.png' },
-  { name: 'Capcut', logo: 'public/images/Icons/capcut-icon.png' },
+  { name: 'Adobe Premiere Pro', logo: 'Thambnail/premiere-pro.png' },
+  { name: 'After Effects', logo: 'Thambnail/after-effects.png' },
+  { name: 'Photoshop', logo: 'Thambnail/photoshop.png' },
+  { name: 'DaVinci Resolve', logo: 'Thambnail/pngwing.com.png' },
+  { name: 'Capcut', logo: 'Thambnail/capcut-icon.png' },
 ];
 
 export const SoftwareExpertise: React.FC = () => {
