@@ -10,21 +10,21 @@ const portfolioItems = [
       {
         id: 1,
         title: 'Ads Video 1',
-        thumbnail: 'public/Thambnail/Documentry 1 Thambnail.jpg',
+        thumbnail: 'Thambnail/Documentry 1 Thambnail.jpg',
         duration: '0:58',
         youtube: 'https://www.youtube.com/embed/rlXpsCngDTg?autoplay=1'
       },
       {
         id: 2,
         title: 'Ads Video 2',
-        thumbnail: 'public/Thambnail/Documentry Thambnail 2.jpg',
+        thumbnail: 'Thambnail/Documentry Thambnail 2.jpg',
         duration: '1:03',
         youtube: 'https://www.youtube.com/embed/reBNdt5A5Zw?autoplay=1'
       },
       {
         id: 3,
         title: 'Ads Video 3',
-        thumbnail: 'public/Thambnail/Documentry Thambnail 3.jpg',
+        thumbnail: 'Thambnail/Documentry Thambnail 3.jpg',
         duration: '1:02',
         youtube: 'https://www.youtube.com/embed/hHpQ4ueZFYE?autoplay=1'
       }
@@ -37,21 +37,21 @@ const portfolioItems = [
       {
         id: 4,
         title: 'Event Reel 1',
-        thumbnail: 'public/Thambnail/Event Thambnail 1.jpg',
+        thumbnail: 'Thambnail/Event Thambnail 1.jpg',
         duration: '0:37',
         youtube: 'https://www.youtube.com/embed/4qYfxXVyj8I?autoplay=1'
       },
       {
         id: 5,
         title: 'Event Reel 2',
-        thumbnail: 'public/Thambnail/Event Thambnail 2.jpg',
+        thumbnail: 'Thambnail/Event Thambnail 2.jpg',
         duration: '0:42',
         youtube: 'https://www.youtube.com/embed/dlHjsb2E9Lg?autoplay=1'
       },
       {
         id: 6,
         title: 'Event Reel 3',
-        thumbnail: 'public/Thambnail/Event Thambnail 3.jpg',
+        thumbnail: 'Thambnail/Event Thambnail 3.jpg',
         duration: '0:50',
         youtube: 'https://www.youtube.com/embed/qnfZZcTSWCI?autoplay=1'
       }
@@ -64,21 +64,21 @@ const portfolioItems = [
       {
         id: 7,
         title: 'Factory Reel',
-        thumbnail: 'public/Thambnail/Brand Thambnail 1.jpg',
+        thumbnail: 'Thambnail/Brand Thambnail 1.jpg',
         duration: '0:50',
         youtube: 'https://www.youtube.com/embed/QQSsIql5pE0?autoplay=1'
       },
       {
         id: 8,
         title: 'ASMR Reel',
-        thumbnail: 'public/Thambnail/Brand Thambnail 2.jpg',
+        thumbnail: 'Thambnail/Brand Thambnail 2.jpg',
         duration: '0:25',
         youtube: 'https://www.youtube.com/embed/4mnzYMU9hvI?autoplay=1'
       },
       {
         id: 9,
         title: 'Quiz Reel',
-        thumbnail: 'public/Thambnail/Brand Thambnail 3.jpg',
+        thumbnail: 'Thambnail/Brand Thambnail 3.jpg',
         duration: '0:51',
         youtube: 'https://www.youtube.com/embed/pOkGv6A3zU0?autoplay=1'
       }
@@ -91,21 +91,21 @@ const portfolioItems = [
       {
         id: 10,
         title: 'Podcast Clip Edit 1',
-        thumbnail: 'public/Thambnail/Podcast Thambnail 1.jpg',
+        thumbnail: 'Thambnail/Podcast Thambnail 1.jpg',
         duration: '1:00',
         youtube: 'https://www.youtube.com/embed/tYZ7JYTCU_Q?autoplay=1'
       },
       {
         id: 11,
         title: 'Podcast Clip Edit 2',
-        thumbnail: 'public/Thambnail/Podcast Thambnail 2.jpg',
+        thumbnail: 'Thambnail/Podcast Thambnail 2.jpg',
         duration: '1:00',
         youtube: 'https://www.youtube.com/embed/wN7tsFdOX0o?autoplay=1'
       },
       {
         id: 12,
         title: 'Podcast Clip Edit 3',
-        thumbnail: 'public/Thambnail/Podcast Thambnail 3.jpg',
+        thumbnail: 'Thambnail/Podcast Thambnail 3.jpg',
         duration: '1:17',
         youtube: 'https://www.youtube.com/embed/RW5EIFWfOsc?autoplay=1'
       }
@@ -118,21 +118,21 @@ const portfolioItems = [
       {
         id: 13,
         title: 'Motion Edit 1',
-        thumbnail: 'public/Thambnail/Motion Thambnail 1.jpg',
+        thumbnail: 'Thambnail/Motion Thambnail 1.jpg',
         duration: '0:28',
         youtube: 'https://www.youtube.com/embed/pdw-C0KuG1c?autoplay=1'
       },
       {
         id: 14,
         title: 'Motion Edit 2',
-        thumbnail: 'public/Thambnail/Motion Thambnail 2.jpg',
+        thumbnail: 'Thambnail/Podcast Thambnail 2.jpg',
         duration: '0:32',
         youtube: 'https://www.youtube.com/embed/Bt1ULc90W1c?autoplay=1'
       },
       {
         id: 15,
         title: 'Motion Edit 3',
-        thumbnail: 'public/Thambnail/Motion Thambnail 3.jpg',
+        thumbnail: 'Thambnail/Motion Thambnail 3.jpg',
         duration: '0:16',
         youtube: 'https://www.youtube.com/embed/eB0LeMK-W5w?autoplay=1'
       }

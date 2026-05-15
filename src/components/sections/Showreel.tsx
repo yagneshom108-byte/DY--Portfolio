@@ -63,7 +63,7 @@ export const Showreel: React.FC = () => {
           <div className="aspect-video relative overflow-hidden">
 
             <img
-              src="public/Thambnail/Showreel Thambnail.jpg"
+              src="Thambnail/Showreel Thambnail.jpg"
               alt="2026 Showreel"
               className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
             />

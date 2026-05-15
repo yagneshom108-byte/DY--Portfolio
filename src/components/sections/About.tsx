@@ -46,7 +46,7 @@ export const About: React.FC = () => {
               <div className="absolute bottom-0 left-0 w-[200px] h-[200px] bg-accent/20 blur-[60px] rounded-full translate-y-1/2 -translate-x-1/2" />
               
               <img
-                src="/images/shape/Yagnesh.jpg"
+                src="Thambnail/Yagnesh.jpg"
                 alt="Yagnesh Chavda"
                 className="absolute inset-0 w-full h-full object-cover object-center z-10"
               />
