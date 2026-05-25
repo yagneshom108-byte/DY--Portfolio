@@ -93,7 +93,7 @@ export const CTA: React.FC = () => {
             <form
               ref={form}
               onSubmit={sendEmail}
-              className="glass p-10 rounded-[2.5rem] border border-white/10 flex flex-col gap-6 backdrop-blur-xl"
+              className="glass p-5 md:p-10 rounded-[2.5rem] border border-white/10 flex flex-col gap-6 backdrop-blur-xl"
             >
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <input
@@ -132,8 +132,8 @@ export const CTA: React.FC = () => {
                 type="submit"
                 size="lg"
                 disabled={loading}
-                className="w-full bg-yellow-400 hover:bg-yellow-500 text-black h-14 text-lg font-black rounded-xl flex items-center justify-center gap-3"
-              >
+                className="w-full bg-yellow-400 hover:bg-yellow-500 text-black h-auto min-h-[56px] py-3 px-4 text-sm md:text-base font-black rounded-xl flex items-center justify-center gap-2 whitespace-nowrap overflow-hidden"
+               >
                 {loading ? "Sending..." : "START YOUR PROJECT"}
                 <Send size={20} />
               </Button>
